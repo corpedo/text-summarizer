@@ -1,6 +1,6 @@
-# text-summarizer
+# Text summarizer
 
-text summarizer implemented with Python and NTLK
+Text summarizer implemented with Python and NLTK.
 
 
 ```
